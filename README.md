@@ -1,4 +1,4 @@
-" JB's Greasemonkey Scripts
+# JB's Greasemonkey Scripts
 
 My personal scripts for Greasemonkey
 Feel free to clone, steal, rewrite, destroy or claim them as your own
