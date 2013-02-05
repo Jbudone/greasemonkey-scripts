@@ -15,8 +15,7 @@ This script removes those annoying parts of your friends on Fb, and only keeps t
 Installation
 ``````
 	add script to Greasemonkey & link to your Dashboard
-	Edit the settings accordingly:
-		fb_boxes=[...]; should contain an array of boxid's for each Facebook box-stream (right click the facebook stream, Inspect Element and you'll find it there)
-		fb_user_images=[...]; contains the userid's of users who's profiles you do not want to say (eg. girls with boyfriend/kissing pictures, guys with half-naked pictures of themselves); right click the user profile pic, Inspect Element and you'll find userid="user|******" with the number there
+	Do this if you want to block someones pic:
+		fb_user_images=[...]; contains the userid's of users who's profile-pics you do not want to see (eg. girls making out, guys half-naked); right click the user profile pic, Inspect Element and you'll find userid="user|******" with the number there
 ``````
- Warning: Do NOT tell these people that you've added them to the following list...they may not take it so lightly
+ Warning: Do NOT tell these people that you've added them to this list...they may not take it so lightly
