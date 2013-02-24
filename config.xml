@@ -1,0 +1,13 @@
+<UserScriptConfig>
+	<Script basedir="Hootsuite_Fixes" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="Personalized fixes" enabled="true" filename="Hootsuite_Fixes.user.js" installTime="1359391660841" modified="1360049120000" name="Hootsuite Fixes" namespace="hootsuite" runAt="document-end" uuid="24c1c844-5837-46c8-a69f-eefdd65c06bb" version="1" installurl="file:///home/jbud/.mozilla/firefox/1btj05p1.default/gm_scripts/Hootsuite_Fixes/Hootsuite_Fixes.user.js" updateurl="file:///home/jbud/.mozilla/firefox/1btj05p1.default/gm_scripts/Hootsuite_Fixes/Hootsuite_Fixes.user.js">
+		<Grant>none</Grant>
+		<Include>http://hootsuite.com/dashboard</Include>
+	</Script>
+	<Script basedir="Outlook" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" filename="Outlook.user.js" installTime="1361608091139" modified="1361642338000" name="Outlook" namespace="hootsuite" runAt="document-end" uuid="a81f2c14-fcad-47b7-bd8f-7a7d9a3cc44b" version="1" installurl="file:///home/jbud/.mozilla/firefox/1btj05p1.default/gm_scripts/Outlook/Outlook.user.js" updateurl="file:///home/jbud/.mozilla/firefox/1btj05p1.default/gm_scripts/Outlook/Outlook.user.js">
+		<Grant>none</Grant>
+		<Include>https://blu002.mail.live.com/default.aspx</Include>
+		<Include>https://*.mail.live.com/default</Include>
+		<Include>https://blu002.mail.live.com/default.aspx?wa=wsignin1.0</Include>
+		<Include>https://blu002.mail.live.com/default.aspx?wa=wsignin1.0&amp;rru=inbox</Include>
+	</Script>
+</UserScriptConfig>
